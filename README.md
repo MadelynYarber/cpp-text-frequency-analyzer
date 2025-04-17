@@ -21,3 +21,11 @@ It displays the **top 10 of each category**, sorted by frequency and by order of
 ```bash
 make
 ./proj1 < input.txt
+
+## Sample Output
+Total 42 different characters, 10 most used characters:
+No. 0: e                34
+No. 1: t                31
+...
+
+
